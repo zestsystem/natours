@@ -1,0 +1,16 @@
+{
+  "name": "natours",
+  "version": "1.0.0",
+  "description": "natours project",
+  "main": "index.js",
+  "repository": "https://github.com/mikeyim337/natours.git",
+  "author": "mikeyim337 <mk337337@gmail.com>",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "node-sass": "^5.0.0"
+  },
+  "scripts": {
+    "compile:sass": "node-sass sass/main.scss css/style.css"
+  }
+}
